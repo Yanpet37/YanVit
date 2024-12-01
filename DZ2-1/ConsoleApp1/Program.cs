@@ -16,7 +16,7 @@
                 return; // Завершаемся, если импут неверный 
             }
 
-            // Если ввели 99, то продолжаем выполнение
+            // Если ввели 1, то продолжаем выполнение
             Console.WriteLine("Great! Now let's continue.");
 
             Console.Write("Enter your name: ");
