@@ -1,0 +1,15 @@
+C:\Users\y.piatrouski\YanVit\DZ4(PR)\DZ4(PR)\obj\Debug\net9.0\DZ4(PR).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\y.piatrouski\YanVit\DZ4(PR)\DZ4(PR)\obj\Debug\net9.0\DZ4(PR).AssemblyInfoInputs.cache
+C:\Users\y.piatrouski\YanVit\DZ4(PR)\DZ4(PR)\obj\Debug\net9.0\DZ4(PR).AssemblyInfo.cs
+C:\Users\y.piatrouski\YanVit\DZ4(PR)\DZ4(PR)\obj\Debug\net9.0\DZ4(PR).csproj.CoreCompileInputs.cache
+C:\Users\y.piatrouski\YanVit\DZ4(PR)\DZ4(PR)\obj\Debug\net9.0\DZ4(PR).sourcelink.json
+C:\Users\y.piatrouski\YanVit\DZ4(PR)\DZ4(PR)\bin\Debug\net9.0\DZ4(PR).exe
+C:\Users\y.piatrouski\YanVit\DZ4(PR)\DZ4(PR)\bin\Debug\net9.0\DZ4(PR).deps.json
+C:\Users\y.piatrouski\YanVit\DZ4(PR)\DZ4(PR)\bin\Debug\net9.0\DZ4(PR).runtimeconfig.json
+C:\Users\y.piatrouski\YanVit\DZ4(PR)\DZ4(PR)\bin\Debug\net9.0\DZ4(PR).dll
+C:\Users\y.piatrouski\YanVit\DZ4(PR)\DZ4(PR)\bin\Debug\net9.0\DZ4(PR).pdb
+C:\Users\y.piatrouski\YanVit\DZ4(PR)\DZ4(PR)\obj\Debug\net9.0\DZ4(PR).dll
+C:\Users\y.piatrouski\YanVit\DZ4(PR)\DZ4(PR)\obj\Debug\net9.0\refint\DZ4(PR).dll
+C:\Users\y.piatrouski\YanVit\DZ4(PR)\DZ4(PR)\obj\Debug\net9.0\DZ4(PR).pdb
+C:\Users\y.piatrouski\YanVit\DZ4(PR)\DZ4(PR)\obj\Debug\net9.0\DZ4(PR).genruntimeconfig.cache
+C:\Users\y.piatrouski\YanVit\DZ4(PR)\DZ4(PR)\obj\Debug\net9.0\ref\DZ4(PR).dll

@@ -1,0 +1,15 @@
+C:\Users\y.piatrouski\YanVit\DZ3-1\DZ3-1\obj\Debug\net9.0\DZ3-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\y.piatrouski\YanVit\DZ3-1\DZ3-1\obj\Debug\net9.0\DZ3-1.AssemblyInfoInputs.cache
+C:\Users\y.piatrouski\YanVit\DZ3-1\DZ3-1\obj\Debug\net9.0\DZ3-1.AssemblyInfo.cs
+C:\Users\y.piatrouski\YanVit\DZ3-1\DZ3-1\obj\Debug\net9.0\DZ3-1.csproj.CoreCompileInputs.cache
+C:\Users\y.piatrouski\YanVit\DZ3-1\DZ3-1\obj\Debug\net9.0\DZ3-1.sourcelink.json
+C:\Users\y.piatrouski\YanVit\DZ3-1\DZ3-1\bin\Debug\net9.0\DZ3-1.exe
+C:\Users\y.piatrouski\YanVit\DZ3-1\DZ3-1\bin\Debug\net9.0\DZ3-1.deps.json
+C:\Users\y.piatrouski\YanVit\DZ3-1\DZ3-1\bin\Debug\net9.0\DZ3-1.runtimeconfig.json
+C:\Users\y.piatrouski\YanVit\DZ3-1\DZ3-1\bin\Debug\net9.0\DZ3-1.dll
+C:\Users\y.piatrouski\YanVit\DZ3-1\DZ3-1\bin\Debug\net9.0\DZ3-1.pdb
+C:\Users\y.piatrouski\YanVit\DZ3-1\DZ3-1\obj\Debug\net9.0\DZ3-1.dll
+C:\Users\y.piatrouski\YanVit\DZ3-1\DZ3-1\obj\Debug\net9.0\refint\DZ3-1.dll
+C:\Users\y.piatrouski\YanVit\DZ3-1\DZ3-1\obj\Debug\net9.0\DZ3-1.pdb
+C:\Users\y.piatrouski\YanVit\DZ3-1\DZ3-1\obj\Debug\net9.0\DZ3-1.genruntimeconfig.cache
+C:\Users\y.piatrouski\YanVit\DZ3-1\DZ3-1\obj\Debug\net9.0\ref\DZ3-1.dll

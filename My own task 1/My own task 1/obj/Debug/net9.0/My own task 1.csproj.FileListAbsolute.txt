@@ -1,0 +1,15 @@
+C:\Users\y.piatrouski\YanVit\My own task 1\My own task 1\bin\Debug\net9.0\My own task 1.exe
+C:\Users\y.piatrouski\YanVit\My own task 1\My own task 1\bin\Debug\net9.0\My own task 1.deps.json
+C:\Users\y.piatrouski\YanVit\My own task 1\My own task 1\bin\Debug\net9.0\My own task 1.runtimeconfig.json
+C:\Users\y.piatrouski\YanVit\My own task 1\My own task 1\bin\Debug\net9.0\My own task 1.dll
+C:\Users\y.piatrouski\YanVit\My own task 1\My own task 1\bin\Debug\net9.0\My own task 1.pdb
+C:\Users\y.piatrouski\YanVit\My own task 1\My own task 1\obj\Debug\net9.0\My own task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\y.piatrouski\YanVit\My own task 1\My own task 1\obj\Debug\net9.0\My own task 1.AssemblyInfoInputs.cache
+C:\Users\y.piatrouski\YanVit\My own task 1\My own task 1\obj\Debug\net9.0\My own task 1.AssemblyInfo.cs
+C:\Users\y.piatrouski\YanVit\My own task 1\My own task 1\obj\Debug\net9.0\My own task 1.csproj.CoreCompileInputs.cache
+C:\Users\y.piatrouski\YanVit\My own task 1\My own task 1\obj\Debug\net9.0\My own task 1.sourcelink.json
+C:\Users\y.piatrouski\YanVit\My own task 1\My own task 1\obj\Debug\net9.0\My own task 1.dll
+C:\Users\y.piatrouski\YanVit\My own task 1\My own task 1\obj\Debug\net9.0\refint\My own task 1.dll
+C:\Users\y.piatrouski\YanVit\My own task 1\My own task 1\obj\Debug\net9.0\My own task 1.pdb
+C:\Users\y.piatrouski\YanVit\My own task 1\My own task 1\obj\Debug\net9.0\My own task 1.genruntimeconfig.cache
+C:\Users\y.piatrouski\YanVit\My own task 1\My own task 1\obj\Debug\net9.0\ref\My own task 1.dll
