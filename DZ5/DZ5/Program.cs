@@ -6,13 +6,11 @@
         private string author; 
         private int pages;
 
-
         public string Title
         {
             get { return title; }         
             set { title = value; }         
         }
-
 
         public string Author
         {
@@ -20,11 +18,10 @@
             set { author = value; }        
         }
 
-
         public int Pages
         {
             get { return pages; }
-            set { pages = value >= 0 ? value : 0; } //тернарный
+            set { pages = value >= 0 ? value : 0; } 
         }
 
         public Book()
@@ -46,6 +43,7 @@
             return $"Название: {Title}, Автор: {Author}, Страниц: {Pages}";
         }
     }
+
     class Program
     {
         static void Main(string[] args)
