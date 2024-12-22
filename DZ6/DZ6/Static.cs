@@ -22,7 +22,7 @@ namespace Static
                     case "1":
                         Console.Write("Enter Name: ");
                         string nameManager = Console.ReadLine();
-                        Console.Write("Enter Position: ");
+                        Console.Write("Enter Position  (Delivery Manager/Project Manager: ");
                         string positionManager = Console.ReadLine();
                         Console.Write("Enter Grade (J, M, or S): ");
                         string grade;
@@ -50,9 +50,9 @@ namespace Static
                     case "2":
                         Console.Write("Enter Name: ");
                         string nameWorker = Console.ReadLine();
-                        Console.Write("Enter Position: ");
+                        Console.Write("Enter Position (HR, BA, Dev): ");
                         string positionWorker = Console.ReadLine();
-                        Console.Write("Enter Location: ");
+                        Console.Write("Enter Location (Minsk, London): ");
                         string location = Console.ReadLine();
 
                         Worker worker = new Worker

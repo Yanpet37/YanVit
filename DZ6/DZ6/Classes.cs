@@ -25,11 +25,19 @@ namespace Classes
                 _grade = value; 
             }
         }
-
-
         public override string GetDetails()
         {
             return $"Manager Name: {Name}, Position: {Position}, Grade: {Grade}";
+        }
+        public class Project
+        {
+            public string ProjectName { get; set; }
+            public DateTime Deadline { get; set; }
+
+            public void DisplayProjectInfo()
+            {
+                Console.WriteLine($"Project Name: {ProjectName}, Deadline: {Deadline}");
+            }
         }
     }
     class Worker : EmployeeBase
